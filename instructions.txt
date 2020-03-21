@@ -1,0 +1,6 @@
+1. git clone https://github.com/rais32/rentcar.git
+2. Create database rentcar
+3. composer install
+4. change user and password database connection in file .env
+5. php artisan serve
+
