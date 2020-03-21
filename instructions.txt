@@ -3,4 +3,5 @@
 3. composer install
 4. change user and password database connection in file .env
 5. php artisan serve
+6. run the application on browser using this link http://127.0.0.1:8000
 
